@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/adebali/orthoPaper/tree/gh-pages) branch hosts the contents of this directory at https://adebali.github.io/orthoPaper/.
-The permalink for this webpage version is https://adebali.github.io/orthoPaper/v/dd20688720db8134159b4288174518c120b5d9cc/.
+The permalink for this webpage version is https://adebali.github.io/orthoPaper/v/922de74d0516c790508443dbe93df030bd67713c/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://adebali.github.io/orthoPaper/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`dd20688720db8134159b4288174518c120b5d9cc`](https://github.com/adebali/orthoPaper/commit/dd20688720db8134159b4288174518c120b5d9cc).
+[`922de74d0516c790508443dbe93df030bd67713c`](https://github.com/adebali/orthoPaper/commit/922de74d0516c790508443dbe93df030bd67713c).
