@@ -1,27 +1,21 @@
 ---
-title: "Manuscript Title"
+title: "Phylogenetic inferences in identifying the ancestral version of paralogs"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - gene duplication
+  - paralog
+  - co-ortholog
+  - phylogenetics
+  - ancestral function
+  - functional equivalence 
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: adebali
+    name: Ogun Adebali
+    initials: OA
+    orcid: 0000-0001-9213-4070
+    twitter: compGenomics
+    email: oadebali@sabanciuniv.edu
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
-  -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Faculty of Engineering and Natural Sciences, Sabanci University
+    funders: EMBO Installation Grant supported by TUBITAK
