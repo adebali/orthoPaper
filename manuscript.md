@@ -1,14 +1,16 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Ogun Adebali
 date-meta: '2019-07-01'
 keywords:
-- markdown
-- publishing
-- manubot
+- gene duplication
+- paralog
+- co-ortholog
+- phylogenetics
+- ancestral function
+- functional equivalence
 lang: en-US
-title: Manuscript Title
+title: Phylogenetic inferences in identifying the ancestral version of paralogs
 ...
 
 
@@ -18,9 +20,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://adebali.github.io/orthoPaper/v/dd20688720db8134159b4288174518c120b5d9cc/))
+([permalink](https://adebali.github.io/orthoPaper/v/922de74d0516c790508443dbe93df030bd67713c/))
 was automatically generated
-from [adebali/orthoPaper@dd20688](https://github.com/adebali/orthoPaper/tree/dd20688720db8134159b4288174518c120b5d9cc)
+from [adebali/orthoPaper@922de74](https://github.com/adebali/orthoPaper/tree/922de74d0516c790508443dbe93df030bd67713c)
 on July 1, 2019.
 </em></small>
 
@@ -28,25 +30,16 @@ on July 1, 2019.
 
 
 
-+ **John Doe**<br>
++ **Ogun Adebali**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-9213-4070](https://orcid.org/0000-0001-9213-4070)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [adebali](https://github.com/adebali)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [compGenomics](https://twitter.com/compGenomics)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Faculty of Engineering and Natural Sciences, Sabanci University
+     · Funded by EMBO Installation Grant supported by TUBITAK
   </small>
 
 
@@ -54,7 +47,12 @@ on July 1, 2019.
 ## Abstract {.page_break_before}
 
 
-
+Predicting common functionality between homologous genes/proteins has been a crucial effort for many biological studies.
+On the basis of general orthology conjecture, functions of orthologous proteins are likely to be closer to each other relative to of paralogs. 
+On the other hand, extensive gene duplications and losses give rise to complex evolutionary patterns limiting our ability to interpret function-wise comparisons. 
+Especially within co-orthologs, relationships cannot be specified further as lineage-specific events are independent of the neighboring clades. 
+However, if a gene was essential for ancestral fitness, after duplication, one of the paralogs tends to remain preserved while the other copy often diverges. 
+Here, I propose phylogeny-based methods to identify, if exists, the common ancestral version of paralogs with the aim of delineating functional equivalence between co-orthologous proteins. 
 
 ## References {.page_break_before}
 
